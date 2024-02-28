@@ -1,14 +1,16 @@
 ﻿/* 
  * Name: Shyam Rishi Kashyap Sai
  * Date:02/28/2024
- * Edited by Purna Chandra Shekar Reddy Gosala
- * Date:02/28/2024
+ 
  * Comments: This code is used to sort a static list(which u can change) in 
  *           Bubble sorting algorithm
  * 
+ * Edited by: Purna Chandra Shekar Reddy Gosala
+ * This is a Team work
+ * Date:02/28/2024
  */
 
-    
+
 
 
 int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 45 };
