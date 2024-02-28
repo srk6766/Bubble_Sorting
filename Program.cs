@@ -1,7 +1,8 @@
 ﻿/* 
  * Name: Shyam Rishi Kashyap Sai
- *Date:02/28/2024
- * 
+ * Date:02/28/2024
+ * Edited by Purna Chandra Shekar Reddy Gosala
+ * Date:02/28/2024
  * Comments: This code is used to sort a static list(which u can change) in 
  *           Bubble sorting algorithm
  * 
@@ -10,7 +11,7 @@
     
 
 
-int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 10 };
+int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 45 };
 Console.WriteLine("Here is the original array : ");
 for (int i = 0; i < bubble_sort_numbers.Length; i++)
 Console.Write("  " + bubble_sort_numbers[i]);
